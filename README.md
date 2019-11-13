@@ -11,33 +11,4 @@ However, if you feel like this website deserves an attribution, mention it. It w
 Don't worry, it can be read in less than 30 seconds, unless you have some sort of reading disability - in that case, I'm wondering why you're still reading this text. Really. Stop. Please. I mean, seriously. Why are you still reading?
 </p><a class="kopimi" href="http://www.kopimi.com/kopimi" title="Kopimi"><img class="kopimi" src="img/kopimi.svg" title="Kopimi Logo"></a><h2>Contributions</h2><p>Since this website includes some contributions, and I'm not an asshole, I'll publically thank the following users for their help:</p><ul><li><a href="https://github.com/beardog108">@beardog108</a> for his <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/5">precious suggestions</a> for
 the server side part (Cache-Control, HTTP/2, CORS and Piwik)</li><li><a href="https://github.com/5ilver">@5ilver</a>, <a href="https://github.com/abluejelly">@abluejelly</a>, <a href="https://github.com/bharadwaj-raju">@bharadwaj-raju</a> for giving tips about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues?q=label%3Acontrast">contrast</a></li><li><a href="https://github.com/hellerbarde">@hellerbarde</a> for his hint about the <span class="visited">visited link color</span> (he proposed <a href="http://clrs.cc/"><span class="visited-maroon">maroon</span></a>) - if you don't like it, <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/11">complain about it here</a></li><li><a href="https://github.com/glodime">@glodime</a> for his suggestion about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/12">text justification on mobile</a></li><li><a href="https://github.com/arthurtiteica">@arthurtiteica</a> and <a href="https://github.com/vktec">@vktec</a> for their suggestions about <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/issues/9">PIN Code</a> / <a href="https://en.wikipedia.org/wiki/RAS_syndrome">RAS Syndrome</a> fix.</li><li><a href="https://github.com/friendlyanon">@friendlyanon</a> and <a href="https://github.com/C-Lodder">@C-Lodder</a> for improving the JS.</li><li><span><a href="https://github.com/Zsavajji">@Zsavajji</a></span><span class="separator">, </span><span><a href="https://github.com/CapacitorSet">@CapacitorSet</a></span><span class="separator">, </span><span><a href="https://github.com/danielquinn">@danielquinn</a></span><span class="separator">, </span><span><a href="https://github.com/ehea617">@ehea617</a></span><span class="separator">, </span><span><a href="https://github.com/MrSaad">@MrSaad</a></span><span class="separator">, </span><span><a href="https://github.com/tqdv">@tqdv</a></span><span class="separator">, </span><span><a href="https://github.com/mothinx">@mothinx</a></span><span> for <a href="https://github.com/denysvitali/thebestmotherfuckingwebsite/pulls?q=is%3Apr+is%3Aclosed+label%3A%22spell+checking%22">their help in spell checking</a></span></li></ul><div id="contrast">Add more contrast</div><div id="invmode">Inverted mode</div><script>
-	var scriptSrc = [
-		"js/main.fucking.js",
-	];
-	for (var i_2 = 0; i_2 < scriptSrc.length; i_2++) {
-		var index = scriptSrc[i_2];
-		var script = document.body.appendChild(document.createElement('script'));
-		script.async = false;
-		script.src = index;
-	}
-</script>
-<!-- Yeah, here's some tracking. Do you really wanna argue on this? !-->
-<!-- Matomo -->
-<script type="text/javascript">
-  var _paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-  _paq.push(["setCookieDomain", "*.thebestmotherfucking.website"]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//matomo.ded1.denv.it/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '2']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="//matomo.ded1.denv.it/matomo.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Matomo Code -->
-</body></html>
+	
